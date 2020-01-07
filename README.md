@@ -15,7 +15,7 @@ projects in CIS 211.
 
 If you encounter difficulty, there are several ways to get help: 
 
-* Use our Piazza site to post a question.  (Also, search it to see if a relevant question and answer has already been posted.)  Our Piazza site is piazza.com/uoregon/winter2019/cis211/home .  
+* Use our Piazza site to post a question.  (Also, search it to see if a relevant question and answer has already been posted.) 
 
 * Ask your teaching assistant during your scheduled lab hour, after completing the lab exercise. 
 
